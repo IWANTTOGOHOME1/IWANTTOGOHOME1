@@ -1,4 +1,4 @@
-**Welcome To IWANTTOGOHOME Inc.**
+# **Welcome To IWANTTOGOHOME Inc.**
 
 집가고싶다 Inc.에 오신것을 환영합니다.
 컴퓨터에 미친 잼민이가 지가 만들고 싶은거 만드는 곳입니다.
